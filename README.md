@@ -14,7 +14,7 @@ Afraz Jamal
 
 **Build of Final Game** : https://drive.google.com/drive/folders/1VyxOFBoQ-cRB2KVRJ1syruHLioJbp5aD?usp=sharing
 
-_**Work Done By Me**: Implemenatation of Features for shooting balls , design levels 
+_**Work Done By Me**: Implemenatation of Features for shooting balls , design levels (realistic environment) ,movement script etc.
 
 **Video of 1st Week Submission**: https://drive.google.com/file/d/13hs-q98C3CZb4Ghny7B_7eE2TjA6VbDo/view?usp=drivesdk
 
